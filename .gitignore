@@ -1,0 +1,4 @@
+.env
+health.db
+__pycache__/
+.playwright-mcp/
